@@ -29,8 +29,8 @@ export default function About() {
             viewport={{ once: true, amount: 0.6 }}
             src={profile.avatarPlaceholder}
             alt={profile.name}
-            width={120}
-            height={120}
+            width={150}
+            height={150}
             className="rounded-full opacity-80"
           />
         </div>
